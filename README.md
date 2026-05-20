@@ -9,13 +9,13 @@ The robotic arm was developed using Arduino and multiple servo motors to simulat
 
 ## Files
 
-### `servo_test.ino`
+### `test-all-servo.ino`
 Basic testing for multiple servo motors and synchronized servo movement.
 
-### `robotic_arm_movement.ino`
+### `code-cabe.ino`
 Initial robotic arm movement experiment using two servo motors.
 
-### `final_robotic_arm_control.ino`
+### `main.ino`
 Updated robotic arm movement logic for multi-servo movement experimentation.
 
 ## Technologies
