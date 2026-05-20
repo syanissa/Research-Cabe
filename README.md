@@ -21,9 +21,4 @@ Updated robotic arm movement logic for multi-servo movement experimentation.
 ## Technologies
 - Arduino
 - Servo Motor
-- Embedded Systems
-- Robotics
 - C/C++
-
-## Notes
-This project became my starting point in learning embedded systems and robotics development using Arduino.
