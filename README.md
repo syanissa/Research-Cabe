@@ -1,1 +1,29 @@
-Code untuk 4 servo yang diaplikasikan pada lengan robot pada penelitian robot pemetik cabai.
+# Chili Picker Robot Arm
+
+This repository contains the robotics and servo control experiments for a chili picker robot research project. The project aimed to develop a system capable of identifying and picking ripe chili using computer vision and robotics systems.
+
+The project was developed collaboratively by three research assistants. While the computer vision and classification modules were explored by other team members, this repository mainly focuses on the robotic arm and embedded system experiments.
+
+## Overview
+The robotic arm was developed using Arduino and multiple servo motors to simulate chili-picking movement. The experiments in this repository include servo testing, robotic arm movement control, and multi-servo coordination.
+
+## Files
+
+### `servo_test.ino`
+Basic testing for multiple servo motors and synchronized servo movement.
+
+### `robotic_arm_movement.ino`
+Initial robotic arm movement experiment using two servo motors.
+
+### `final_robotic_arm_control.ino`
+Updated robotic arm movement logic for multi-servo movement experimentation.
+
+## Technologies
+- Arduino
+- Servo Motor
+- Embedded Systems
+- Robotics
+- C/C++
+
+## Notes
+This project became my starting point in learning embedded systems and robotics development using Arduino.
